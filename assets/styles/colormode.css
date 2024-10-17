@@ -1,0 +1,68 @@
+/* Body element */
+body {
+    background-color:#000000;
+    color: rgba(255, 255, 255, 0.8);
+    }
+    .light-mode body {
+        background-image: url('../../public/img/white-background.jpg');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover; /* Zorgt ervoor dat de afbeelding zich aanpast aan het schermformaat */
+        background-attachment: fixed;
+        color: #000000;
+        height: 100vh;
+        margin: 0;
+    }
+     .dark-mode body {
+    background-image: url('../../public/img/afbeelding_achtergrond_2.avif');
+    background-repeat: no-repeat;
+    background-position: center; /* Centraal plaatsen van de afbeelding */
+    background-size: cover; /* Zorgt ervoor dat de afbeelding zich aanpast aan het schermformaat */
+    background-attachment: fixed;
+    color: #ffffff;
+    height: 100vh; /* Zorgt ervoor dat de body 100% van de viewporthoogte beslaat */
+    margin: 0; /* Verwijdert eventuele marges */
+    }
+    .gray-mode body {
+    background-image: url('../../public/img/grey-background.jpg');
+    background-repeat: no-repeat;
+    background-position: center; /* Centraal plaatsen van de afbeelding */
+    background-size: cover; /* Zorgt ervoor dat de afbeelding zich aanpast aan het schermformaat */
+    background-attachment: fixed;
+    color: #ffffff;
+    height: 100vh; /* Zorgt ervoor dat de body 100% van de viewporthoogte beslaat */
+    margin: 0; /* Verwijdert eventuele marges */
+    }
+    
+    /* Active link */
+    .router-link-active {
+    border-bottom: 2px solid gray;
+    }
+    .dark-mode .router-link-active {
+    border-bottom: 2px solid rgb(228, 88, 46);
+    }
+    .gray-mode .router-link-active {
+    border-bottom: 2px solid rgb(231, 67, 46);
+    }
+    /* input */
+    textarea,
+    input, select{
+    padding:.5em;
+    display: block;
+    max-width: auto;
+    margin-top: .2em;
+    padding: .5em;
+    border: 1px solid rgba(111, 109, 109,.2);
+    border-radius: 4px;
+    background: none;
+    }
+    .dark-mode textarea,
+    .dark-mode input,
+    .gray-mode select  {
+    border: 1px solid rgba(199, 197, 197, 0.8);
+    }
+    .gray-mode textarea,
+    .gray-mode input,
+    .gray-mode select {
+    border: 1px solid rgba(41, 41, 45, 0.8);
+    } 
