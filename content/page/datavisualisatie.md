@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Datavisualisatie Louka
+title: Datavisualisatie
 date: 2024-09-19T13:38:30.130Z
 imagegallery:
   showgallery: true
