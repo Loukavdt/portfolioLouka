@@ -6,7 +6,11 @@ imagegallery:
   showgallery: true
   carouselgrid: carousel
   galleryImages:
-    - /img/
+    - /img/regatta_1.jpg
+    - /img/regatta_2.jpg
+    - /img/regatta_3.jpg
+    - /img/regatta_5.jpg
+    - /img/regatta_4.jpg
 thumbnail: /img/Regatta_Toren.jpg
 included: true
 numbernavigation: 100
