@@ -6,7 +6,12 @@ imagegallery:
   showgallery: true
   carouselgrid: carousel
   galleryImages:
-    - /img/
+    - /img/019_2.jpg
+    - /img/019_6.jpg
+    - /img/019_3.jpg
+    - /img/019_4.jpg
+    - /img/019_5.jpg
+    - /img/019_1.jpg
 thumbnail: /img/019_DokNoord.jpg
 included: true
 numbernavigation: 100
