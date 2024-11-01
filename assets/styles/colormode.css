@@ -14,7 +14,7 @@ body {
         margin: 0;
     }
      .dark-mode body {
-    background-image: url(/public/img/black_background.jpg);
+    background-image: url(/public/img/black_background_2.jpg);
     background-repeat: no-repeat;
     background-position: center; /* Centraal plaatsen van de afbeelding */
     background-size: cover; /* Zorgt ervoor dat de afbeelding zich aanpast aan het schermformaat */
