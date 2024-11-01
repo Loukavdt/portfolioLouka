@@ -4,17 +4,17 @@ body {
     color: rgba(255, 255, 255, 0.8);
     }
     .light-mode body {
-        background-color: #ffffff;
+        background-image: url(/public/img/white-background.jpg);
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover; /* Zorgt ervoor dat de afbeelding zich aanpast aan het schermformaat */
         background-attachment: fixed;
-        color: #6b6b6b;
+        color: #4e4e4e;
         height: 100vh;
         margin: 0;
     }
      .dark-mode body {
-    background-image: url(/public/img/black_background_2.jpg);
+    background-image: url(/public/img/afbeelding_achtergrond_2.avif);
     background-repeat: no-repeat;
     background-position: center; /* Centraal plaatsen van de afbeelding */
     background-size: cover; /* Zorgt ervoor dat de afbeelding zich aanpast aan het schermformaat */
@@ -24,7 +24,7 @@ body {
     margin: 0; /* Verwijdert eventuele marges */
     }
     .gray-mode body {
-    background-color: darkgrey;
+    background-image: url(/public/img/grey_background.jpg);
     background-repeat: no-repeat;
     background-position: center; /* Centraal plaatsen van de afbeelding */
     background-size: cover; /* Zorgt ervoor dat de afbeelding zich aanpast aan het schermformaat */
