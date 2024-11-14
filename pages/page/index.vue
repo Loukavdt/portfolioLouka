@@ -25,7 +25,7 @@
           </div>
           <NuxtLink :to="post._path" class="block">
           <div class="masonry-item-text p-4">
-            <h2 class="text-2xl font-semibold roboto-medium">{{ post.title }}</h2>
+            <h2 class="text-2xl font-semibold roboto-medium animate-fade-down">{{ post.title }}</h2>
             <!-- Limiting the height of the description and making it responsive -->
             <p v-if="post.description" class="text-gray-600 line-clamp-3 text-xl">{{ post.description }}</p>
             <ClientOnly >
