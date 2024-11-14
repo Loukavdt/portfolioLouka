@@ -14,7 +14,7 @@
   v-model="drawer"
   class="drawer"
   :direction="direction"
-  size="75%"
+  size="60%"
 >
   <!-- Drawer content goes here -->
     <div class="">
