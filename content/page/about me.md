@@ -12,6 +12,11 @@ included: true
 numbernavigation: 100
 promoted: "0"
 ---
-# hier komt nog de tekst
-# de afbeeldingen volgen later
+# Ik ben Louka, 22 jaar, en volg momenteel een academische bachelor in Media en Information Design.
+# Hiervoor heb ik anderhalf jaar interieurvormgeving gestudeerd, maar ik ontdekte dat mijn passie
+# meer ligt bij visuele communicatie en het vertellen van verhalen via design.  
+# In mijn vrije tijd teken ik graag en ben ik vaak te vinden op mijn BMX of skateboard. Deze hobby’s
+# geven mij vrijheid en inspiratie. Met mijn creativiteit en oog voor detail wil ik in de toekomst unieke
+# ontwerpen maken die mensen raken. Tot die tijd blijf ik genieten van wat ik doe en leer ik elke dag bij. 
+# ( de afbeeldingen volgen later )
 
