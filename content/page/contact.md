@@ -13,5 +13,4 @@ numbernavigation: 100
 promoted: "0"
 ---
 # E-mail: loukavdt2002@gmail.com
-# Tel. 0470 29 73 29
 
